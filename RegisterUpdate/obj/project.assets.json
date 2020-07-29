@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\RegisterUpdate\\RegisterUpdate\\RegisterUpdate.csproj",
+      "projectUniqueName": "D:\\Git\\Register-update\\RegisterUpdate\\RegisterUpdate.csproj",
       "projectName": "RegisterUpdate",
-      "projectPath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\RegisterUpdate\\RegisterUpdate\\RegisterUpdate.csproj",
+      "projectPath": "D:\\Git\\Register-update\\RegisterUpdate\\RegisterUpdate.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\RegisterUpdate\\RegisterUpdate\\obj\\",
+      "outputPath": "D:\\Git\\Register-update\\RegisterUpdate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",

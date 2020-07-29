@@ -35,3 +35,40 @@ C:\Users\victo\OneDrive\Área de Trabalho\RegisterUpdate\RegisterUpdate\obj\Debu
 C:\Users\victo\OneDrive\Área de Trabalho\RegisterUpdate\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.pdb
 C:\Users\victo\OneDrive\Área de Trabalho\RegisterUpdate\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.genruntimeconfig.cache
 C:\Users\victo\OneDrive\Área de Trabalho\RegisterUpdate\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.csproj.CopyComplete
+D:\Git\Register-update\RegisterUpdate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Git\Register-update\RegisterUpdate\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Git\Register-update\RegisterUpdate\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Git\Register-update\RegisterUpdate\bin\Debug\netcoreapp3.1\RegisterUpdate.exe
+D:\Git\Register-update\RegisterUpdate\bin\Debug\netcoreapp3.1\RegisterUpdate.deps.json
+D:\Git\Register-update\RegisterUpdate\bin\Debug\netcoreapp3.1\RegisterUpdate.runtimeconfig.json
+D:\Git\Register-update\RegisterUpdate\bin\Debug\netcoreapp3.1\RegisterUpdate.runtimeconfig.dev.json
+D:\Git\Register-update\RegisterUpdate\bin\Debug\netcoreapp3.1\RegisterUpdate.dll
+D:\Git\Register-update\RegisterUpdate\bin\Debug\netcoreapp3.1\RegisterUpdate.pdb
+D:\Git\Register-update\RegisterUpdate\bin\Debug\netcoreapp3.1\RegisterUpdate.Views.dll
+D:\Git\Register-update\RegisterUpdate\bin\Debug\netcoreapp3.1\RegisterUpdate.Views.pdb
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.csprojAssemblyReference.cache
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.AssemblyInfoInputs.cache
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.AssemblyInfo.cs
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.csproj.CoreCompileInputs.cache
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.RazorAssemblyInfo.cache
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.RazorAssemblyInfo.cs
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.TagHelpers.input.cache
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.TagHelpers.output.cache
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.RazorCoreGenerate.cache
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.RazorTargetAssemblyInfo.cache
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.RazorTargetAssemblyInfo.cs
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.Views.pdb
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\staticwebassets\RegisterUpdate.StaticWebAssets.Manifest.cache
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\staticwebassets\RegisterUpdate.StaticWebAssets.xml
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.dll
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.pdb
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.genruntimeconfig.cache
+D:\Git\Register-update\RegisterUpdate\obj\Debug\netcoreapp3.1\RegisterUpdate.csproj.CopyComplete
