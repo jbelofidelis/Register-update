@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace RegisterUpdate.Models.Enums
 {
-    public enum Status : int
+    public enum Status
     {
         Single = 0,
         Married = 1,

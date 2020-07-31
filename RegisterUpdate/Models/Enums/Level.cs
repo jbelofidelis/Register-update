@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace RegisterUpdate.Models.Enums
 {
-    public enum Level : int
+    public enum Level
     {
         Child_Education = 0,
         Fundamental = 1,
